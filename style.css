@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+    border-right: 1px solid darkgrey;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: lightgrey;
+}
